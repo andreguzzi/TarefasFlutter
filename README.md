@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+After importing the project, run android emulator and in Visual Studio, press f5
+
+![tela lista_tarefas](https://user-images.githubusercontent.com/52809806/161402477-6b80e23f-056a-4830-8f67-5e96ed915854.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
